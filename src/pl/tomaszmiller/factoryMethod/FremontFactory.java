@@ -17,11 +17,15 @@ public class FremontFactory implements TeslaFactory {
             }
             case MODEL_S: {
                 tesla = new ModelS();
+                break;
             }
             case MODEL_X: {
-                
+                tesla = new ModelX();
+                break;
             }
         }
+
+        return tesla;
 
     }
 
