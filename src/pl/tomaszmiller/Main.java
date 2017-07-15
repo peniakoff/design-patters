@@ -19,5 +19,8 @@ public class Main {
         modelS.getTesla();
         modelX.getTesla();
 
+//        Adapter
+
+
     }
 }
