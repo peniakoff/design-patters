@@ -3,8 +3,8 @@ package pl.tomaszmiller.factoryMethod;
 /**
  * Created by Peniakoff on 15.07.2017.
  */
-public enum CarType {
+public enum TeslaType {
 
-    SEDAN, STATION_WAGON, SUV
+    MODEL_S, MODEL_X, MODEL_3
 
 }
